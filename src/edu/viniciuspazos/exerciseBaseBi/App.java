@@ -1,4 +1,4 @@
-package edu.viniciuspazos.exercise;
+package edu.viniciuspazos.exerciseBaseBi;
 
 public class App {
 
